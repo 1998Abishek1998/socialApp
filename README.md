@@ -8,6 +8,7 @@ Created using MERN stack
 - Node JS
 - MongoDB
 - Express Js
+- GraphQL
 
 ## Installation
 
